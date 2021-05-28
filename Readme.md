@@ -1,7 +1,7 @@
 ## Atividade da matéria Startup
 ### Atividade sobre Gestão do Conhecimento
 #### **Pesquisa sobre uma empresa atuante no mercado nacional que você acredita utilizar práticas inovadoras para se manter competitiva.**
-#### *Escolhia a empresa QuintoAndar, por considerar sua atuação totalmente disruptiva ao informatizar os processos burocráticos do mercado imobiliário.* 
+#### *Escolhi a empresa QuintoAndar, por considerar sua atuação totalmente disruptiva ao informatizar os processos burocráticos do mercado imobiliário.* 
 
 ![QuintoAndar](QuintoAndarLogo.jpg)
 
